@@ -1,5 +1,7 @@
 <?php
 
+require_once __DIR__ . '/Taxi.class.php';
+
 // Taxiクラスのインスタンスを生成
 $taxi1 = new Taxi('クラウンのタクシー', 222, 'black');
 
