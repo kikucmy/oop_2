@@ -1,5 +1,7 @@
 <?php
 
+require_once __DIR__ . '/Car.class.php';
+
 class Taxi extends Car
 {
     private $passenger;

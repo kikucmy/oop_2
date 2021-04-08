@@ -1,6 +1,5 @@
 <?php
 
-require_once __DIR__ . '/Car.class.php';
 require_once __DIR__ . '/Taxi.class.php';
 
 // Taxiクラスのインスタンスを生成
